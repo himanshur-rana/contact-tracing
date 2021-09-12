@@ -8,6 +8,7 @@
  * Ver   Date         Author                               Modification
  * 1.0   06-14-2021   ChangeMeIn@UserSettingsUnder.SFDoc   Initial Version
 **/
+// Adding new comment
 public with sharing class CTDataCleanUpSchedule implements Schedulable{
     public static final String CRON = '0 0 2 * * ?';
     
